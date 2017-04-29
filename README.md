@@ -1,4 +1,4 @@
-# flat-docky-theme
+# Flat Docky theme
 Minimalistic theme for docky
 
 ## Screenshot
